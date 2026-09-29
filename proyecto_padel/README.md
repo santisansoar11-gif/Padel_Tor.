@@ -9,7 +9,7 @@ Este proyecto corresponde a la evolución del sitio web estático desarrollado e
 - **Variables de Entorno**: Implementación de archivos `.env` y parser en `config/env.php` para almacenar configuraciones globales de la aplicación (nombre del sitio, mail de soporte, entorno de ejecución).
 
 ## 🎨 Prototipo de Figma
-- [Enlace al Prototipo en Figma](https://figma.com) *(reemplazar por tu enlace de Figma)*
+- https://www.figma.com/proto/SnTRmj5HZr4oCsBZA1xkOT/Padel-Organizer?node-id=21-122&p=f&t=lBY13I9wcSZAnxFW-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A6
 
 ## 🛠️ Tecnologías Utilizadas
 - **HTML5 & CSS3** (Modular y Responsive)
@@ -20,7 +20,7 @@ Este proyecto corresponde a la evolución del sitio web estático desarrollado e
 
 ## 🔧 Instrucciones de Instalación y Ejecución Local
 1. Asegúrate de tener instalado **XAMPP** o **Laragon** con soporte para PHP 8.x.
-2. Clona este repositorio o coloca la carpeta del proyecto en `C:\xampp\htdocs\padel`.
+2. Clona este repositorio o coloca la carpeta del proyecto en `C:\xampp\htdocs\proyecto_padel`.
 3. Copia el archivo `.env.example` y renómbralo a `.env`:
    ```bash
    cp .env.example .env
