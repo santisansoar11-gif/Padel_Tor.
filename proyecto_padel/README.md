@@ -27,13 +27,13 @@ Este proyecto corresponde a la evolución del sitio web estático desarrollado e
 ## 📷 Evidencias de Funcionamiento
 
 ### 1. Servidor Local Ejecutándose
-![Servidor Local](img/servidor.png)
+![Localhost](imagenes/localhost.png)
 
 ### 2. Estructura Modular (SSI)
-![Estructura SSI](img/ssi.png)
+![includes](imagenes/includes.png)
 
 ### 3. Navegación Dinámica y Título
-![Navegación Dinámica](img/navegacion.png)
+![Navegación Dinámica](imagenes/titulos.png)
 
 ### 4. Variables de Entorno
-![Variables de Entorno](img/env.png)
+![Variables de Entorno](imagenes/example.png)
