@@ -24,3 +24,16 @@ Este proyecto corresponde a la evolución del sitio web estático desarrollado e
 3. Copia el archivo `.env.example` y renómbralo a `.env`:
    ```bash
    cp .env.example .env
+## 📷 Evidencias de Funcionamiento
+
+### 1. Servidor Local Ejecutándose
+![Servidor Local](img/servidor.png)
+
+### 2. Estructura Modular (SSI)
+![Estructura SSI](img/ssi.png)
+
+### 3. Navegación Dinámica y Título
+![Navegación Dinámica](img/navegacion.png)
+
+### 4. Variables de Entorno
+![Variables de Entorno](img/env.png)
