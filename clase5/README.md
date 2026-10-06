@@ -136,3 +136,21 @@ clase5/
 ```
 
 La carpeta debe contener el proyecto actualizado de esta clase junto con sus recursos (`includes`, `config`, CSS, JavaScript e imágenes) para que pueda ejecutarse de manera independiente.
+## Capturas de funcionamiento
+
+### Formulario POST procesado correctamente
+![POST exitoso](imagen/clase5/post-exito.png)
+
+### Validación del formulario POST
+![Validación POST](imagen/clase5/post-error.png)
+
+### Filtro mediante GET
+![Filtro GET](imagen/clase5/get-filtro.png)
+
+### Protección frente a XSS
+![Prueba XSS](imagen/clase5/xss-seguridad.png)
+### Prueba de protección contra XSS
+
+Se ingresó una etiqueta `<script>` en el formulario de contacto para comprobar
+que el servidor sanitiza los datos recibidos. El código JavaScript no fue ejecutado
+por el navegador.
